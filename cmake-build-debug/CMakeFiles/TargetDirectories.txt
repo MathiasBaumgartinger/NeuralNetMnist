@@ -1,0 +1,3 @@
+/home/mathias/Documents/Neural_Network_Mnist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mathias/Documents/Neural_Network_Mnist/cmake-build-debug/CMakeFiles/Neural_Network_Mnist.dir
+/home/mathias/Documents/Neural_Network_Mnist/cmake-build-debug/CMakeFiles/edit_cache.dir

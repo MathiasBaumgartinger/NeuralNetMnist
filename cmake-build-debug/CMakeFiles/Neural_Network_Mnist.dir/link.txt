@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Neural_Network_Mnist.dir/main.cpp.o CMakeFiles/Neural_Network_Mnist.dir/Network.cpp.o CMakeFiles/Neural_Network_Mnist.dir/Neuron.cpp.o  -o Neural_Network_Mnist 
